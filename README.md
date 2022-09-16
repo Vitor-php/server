@@ -4,22 +4,22 @@
 
 ### Game
 
-id
-title
+id <br>
+title <br>
 bannerUrl
 
 ### Ad
 
-id
-gameId
-name
-yearsPlaying
-discord
-weekDays
-hourStart
-hourdEnd
-useVoiceChannel
-createdAt
+id <br>
+gameId <br>
+name <br>
+yearsPlaying <br>
+discord <br>
+weekDays <br>
+hourStart <br>
+hourdEnd <br>
+useVoiceChannel <br>
+createdAt 
 
 ## Casos de Uso
 
